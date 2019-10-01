@@ -9,7 +9,7 @@
     "dist"
   ],
   "devDependencies": {
-    "eslint": "6.4.0",
+    "eslint": "6.5.1",
     "typescript": "3.6.3"
   },
   "scripts": {
