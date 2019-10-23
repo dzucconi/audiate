@@ -53,7 +53,7 @@ export const defaultStylesheet = `
   }
 `;
 
-export const appendStylesheet = (content: string) => {
+export const appendStylesheet = (content: string): HTMLStyleElement => {
   const style = document.createElement("style");
 
   style.type = "text/css";

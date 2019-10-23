@@ -1,8 +1,8 @@
-const { Howl } = require("howler");
-const paramters = require("queryparams");
+import { Howl } from "howler";
+import paramters from "queryparams";
 
-const sine = require("./sine.mp3");
-const { block, ambient } = require("../../dist");
+import sine from "./sine.mp3";
+import { block, ambient } from "../dist";
 
 const { mode } = paramters({ mode: null });
 
