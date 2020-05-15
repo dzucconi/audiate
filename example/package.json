@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "howler": "^2.1.2",
-    "queryparams": "^0.1.0"
+    "queryparams": "^1.0.0"
   }
 }
