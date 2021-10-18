@@ -8,7 +8,7 @@
     "start": "parcel index.html --open"
   },
   "devDependencies": {
-    "parcel": "1.12.4"
+    "parcel": "2.0.0"
   },
   "dependencies": {
     "howler": "^2.1.2",
